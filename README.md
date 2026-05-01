@@ -157,10 +157,9 @@ These values control:
 
 ## Circuit Preview
 
-Add your wiring image here:
 
 ```
-/images/circuit.jpg
+montage_circuit.jpeg
 ```
 
 Then display it:
