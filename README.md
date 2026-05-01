@@ -167,17 +167,10 @@ These values control:
 * `thingProperties.h` is generated automatically
 * Do NOT upload sensitive data (Wi-Fi, API keys)
 
-Add to `.gitignore` if needed:
-
-```
-thingProperties.h
-```
-
 ---
 
 ## Notes
 
-* Use two ESP32 boards for full communication testing
 * Ambient light affects LDR accuracy
 * Keep consistent distance between LED and LDR
 
