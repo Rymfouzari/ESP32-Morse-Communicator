@@ -157,16 +157,7 @@ These values control:
 
 ## Circuit Preview
 
-
-```
-montage_circuit.jpeg
-```
-
-Then display it:
-
-```md
-![Circuit wiring](images/circuit.jpg)
-```
+![Circuit wiring](montage_circuit.jpeg)it wiring](images/circuit.jpg)
 
 ---
 
