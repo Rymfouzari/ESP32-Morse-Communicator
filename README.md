@@ -3,6 +3,13 @@
 ESP32 Arduino project for sending and receiving Morse code using LED, LDR sensor, and buzzer, with Arduino IoT Cloud integration.
 
 ---
+## Demo Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ufPTyM0id_M">
+    <img src="https://img.youtube.com/vi/ufPTyM0id_M/0.jpg" width="600">
+  </a>
+</p>
 
 ## Features
 
